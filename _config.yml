@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ke Liu's Homepage"
+title                    : "Mengxuan Li's Homepage"
 title_separator          : "-"
-name                     : &name "Ke Liu"
+name                     : &name "Mengxuan Li"
 description              : &description "personal description"
-url                      : https://1999kevin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Leanna97.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/1999kevin/1999kevin.github.io"
+repository               : "https://github.com/Leanna97/Leanna97.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,20 +22,20 @@ repository               : "https://github.com/1999kevin/1999kevin.github.io"
 author:
   # Biographic information
   avatar           : "KeLiu.png"
-  name             : "Ke Liu"
-  pronouns         : "PhD Candidate" # example: "she/her"
-  bio              : "An AI researcher who dreams for AIGC "
+  name             : "Mengxuan Li"
+  pronouns         : "Postdoctoral Researcher" # example: "she/her"
+  bio              : "An AI researcher. "
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "kel99214@gmail.com"
+  email            : "mengxuanli97@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=UhdW1SsAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=wprf4_QAAAAJ&hl=zh-CN"
 #  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-1508-2657"
-  semantic         : "https://www.semanticscholar.org/author/Ke-Liu/2233582654" # URL
+  orcid            : "https://orcid.org/0000-0001-7278-7891"
+  semantic         : "https://www.semanticscholar.org/author/Mengxuan-Li/2199949117" # URL
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  researchgate     : # URL
 #  scopus           : # URL
@@ -44,7 +44,7 @@ author:
 #  bitbucket        : # Username - Update with your username on the site
 #  codepen          : # Username
 #  dribbble         : # Username
-  github           : "1999kevin"
+  github           : "Leanna97"
 #  kaggle           : # Username
 #  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
